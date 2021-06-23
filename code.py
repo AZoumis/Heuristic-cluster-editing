@@ -1,7 +1,5 @@
 import numpy as np
-# import matplotlib.pyplot as plt
 import time
-import statistics
 import random
 import json
 from queue import PriorityQueue
@@ -449,7 +447,7 @@ for ki in algorithms.keys():
         edit_times[kj + " " + ki] = {}
 for i in range(100):
     j = f'{(2 * i + 1):03d}'
-    file_name = "../" + graph_type + "/" + graph_type + j + ".gr"
+    file_name = graph_type + j + ".gr"
 
     file = open(file_name).read()
     for ki, vi in algorithms.items():
