@@ -463,5 +463,5 @@ for i in range(100):
             print("final edit:", edits[final_time])
             edit_times[algo][file_name] = edits
 
-with open("k-means.json", "w") as outfile:
+with open("output.json", "w") as outfile:
     json.dump(edit_times, outfile)
