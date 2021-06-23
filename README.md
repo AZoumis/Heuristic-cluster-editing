@@ -12,3 +12,5 @@ From line 422 to 444, the combination of algorithms and distance metrics that wi
 
 {"\<algorithm\> \<distance metric\>": {"\<graph file name\>": {\<time\>: \<edits\>, ...}, ...}, ...}
 
+## Experiment output
+The json file test-1.json contains the results of the test with the 6 distance metrics combined with the 3 different algorithms. test-2.json contains the results from the experiments using different i for the k-means algorithm.
