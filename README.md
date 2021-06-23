@@ -3,8 +3,10 @@
 
 This repository contains the algorithms used during the experiments for the research project of Developing efficient heuristic approaches for cluster editing, inspired by other clustering problems by Angelos Zoumis.
 
-## Running the algorithm
+## Code
 In order to run the code, python 3 and numpy is required. Furthermore, the graphs can be downloaded from here: https://pacechallenge.org/2021/tracks
+
+The distance metrics are reversed, meaning that small value indicates that two vertices are far, while a large value idicates that they are close to each other.
 
 To change the source of the files, line 450 can be changed.
 
