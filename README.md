@@ -1,7 +1,7 @@
-# Developing efficient heuristic approaches for cluster editing, inspired by other clustering problems
+# Developing efficient heuristic approaches to cluster editing, inspired by other clustering problems
 ### Angelos Zoumis
 
-This repository contains the algorithms used during the experiments for the research project of Developing efficient heuristic approaches for cluster editing, inspired by other clustering problems by Angelos Zoumis.
+This repository contains the algorithms used during the experiments for the research project of Developing efficient heuristic approaches to cluster editing, inspired by other clustering problems by Angelos Zoumis.
 
 ## Code
 In order to run the code, python 3 and numpy is required. Furthermore, the graphs can be downloaded from here: https://pacechallenge.org/2021/tracks
